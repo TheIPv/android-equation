@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PredProf20</string>
+    <string name="caption_text">Решение линейного уравнения с модулем в целых числах</string>
+    <string name="coeff_a_text">a=</string>
+    <string name="coeff_b_text">b=</string>
+    <string name="coeff_c_text">c=</string>
+    <string name="get_solution_text">Решить уравнене</string>
+</resources>
